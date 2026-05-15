@@ -20,21 +20,21 @@
   "dependencies": {
     "async": "^1.5.2",
     "body-parser": "^1.15.1",
-    "connect-redis": "^3.2.0",
+    "connect-redis": "6.1.2",
     "cookie-parser": "^1.4.3",
     "express": "^4.13.4",
     "express-session": "^1.13.0",
-    "finalhandler": "^0.4.1",
-    "morgan": "1.0.0",
+    "finalhandler": "1.0.6",
+    "morgan": "1.9.1",
     "prom-client": "^6.3.0",
-    "request": "2.81.0",
+    "request": "2.88.0",
     "serve-static": "^1.10.2"
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "chai-http": "^3.0.0",
+    "chai-http": "4.0.0",
     "istanbul": "^0.4.4",
-    "mocha": "^3.0.0",
+    "mocha": "10.6.0",
     "mocha-junit-reporter": "^1.12.1",
     "mongodb": "^3.1.13",
     "sinon": "^1.17.5"
